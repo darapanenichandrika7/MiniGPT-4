@@ -12,7 +12,8 @@ model:
   # generation configs
   prompt: ""
 
-  llama_model: "please set this value to the path of llama2-chat-7b"
+  llama_model: "git clone https://huggingface.co/meta-llama/Llama-2-7b-chat-hf pretrained/llm/llama2-7b
+"
 
 preprocess:
     vis_processor:
